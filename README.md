@@ -77,7 +77,7 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/your-profile](link)
-- **Email:** your.email@example.com
+- **Email:** [scj.ebron@gmail.com](scj.ebron@gmail.com)
 - **Google Scholar:** [Your publications](link)
 - **Personal Website:** [optional](link)
 
