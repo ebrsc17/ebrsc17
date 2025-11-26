@@ -101,6 +101,19 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrsc17&theme=radical)
 
+
+<!-- Profile views badge -->
+![Profile views badge](https://komarev.com/ghpvc/?username=ebrsc17&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
+<!-- GitLab Contributors badge (Shields.io) -->
+![GitLab Contributors](https://img.shields.io/gitlab/contributors/gitlab-org/gitlab?label=GitLab%20contributors&logo=gitlab&style=flat-square)
+
+
+<!-- GitLab Profile badge (links to your profile) -->
+[![GitLab Profile](https://img.shields.io/badge/GitLab-Profile-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ebrsc17)
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/sheldon-ebron](https://www.linkedin.com/in/sheldon-ebron)
