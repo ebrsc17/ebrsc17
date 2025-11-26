@@ -1,4 +1,4 @@
-# Hi, I'm Sheldon Ebron 👋
+# Hi, I'm Sheldon Ebron <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30" height="30" style="vertical-align:middle; filter: grayscale(1) brightness(0.35);" />
 
 I'm a machine learning researcher and engineer with a **PhD in Computer Science** from the University of Memphis (August 2025). My research focuses on **privacy-preserving federated learning and adversarial ML defense**, developing algorithms that achieve **90% accuracy while blocking 80% of backdoor and inference attacks** in distributed learning systems.
 
@@ -110,5 +110,3 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 ---
 
 💼 **Open to ML Engineer, Research Scientist, AI Security, and Applied AI roles**
-
-
