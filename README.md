@@ -59,7 +59,7 @@ I specialize in building secure and robust ML systems at scale and translating r
 
 ## 📄 Selected Publications
 
-- 2025 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning** - Information Security and Privacy (ACISP 2025, LNCS) - <a href="https://link.springer.com/chapter/10.1007/978-981-96-9101-2_7" target="_blank" rel="noopener noreferrer">Springer</a>
+- 2025 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning** - Information Security and Privacy (ACISP 2025, LNCS) - <a href="https://link.springer.com/chapter/10.1007/978-981-96-9101-2_7" target="_blank">Springer</a>
 - 2025 - **Towards Trustworthy Federated Learning: Enhancing Robustness, Privacy, and Reliability in Collaborative AI** - PhD Dissertation, Department of Computer Science, University of Memphis - <a href="https://search.proquest.com/openview/d902918b14e527c1b6cfa3dde0651643/1.pdf" target="_blank" rel="noopener noreferrer">ProQuest</a>
 - 2024 - **Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards** - 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) - <a href="https://www.computer.org/csdl/proceedings-article/icdcs/2024/860500a762/1ZCgORwSC52" target="_blank" rel="noopener noreferrer">IEEE CSDL</a>
 - 2024 - **FedTruth: Byzantine-robust and Privacy-preserving Federated Learning** - IEEE ICDCS 2024
