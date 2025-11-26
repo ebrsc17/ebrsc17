@@ -92,6 +92,10 @@ I specialize in building secure, robust ML systems at scale and translating cutt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrsc17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
+[![ebrsc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrsc17)](https://github.com/ebrsc17/github-readme-stats)
+
+
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/sheldon-ebron](https://www.linkedin.com/in/sheldon-ebron)
