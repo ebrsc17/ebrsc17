@@ -12,7 +12,7 @@ I specialize in building secure and robust ML systems at scale and translating r
 - 📖 Learning advanced differential privacy, secure aggregation, and edge computing
 - 🤝 Open to collaborate on research projects, federated learning frameworks, and privacy audits
 - 💬 Ask me about privacy-preserving AI, distributed systems, reproducible research, and academic writing
-- 📫 Reach me: [Email](mailto:scj.ebron@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sheldon-ebron) • [Google Scholar](https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en)
+- 📫 Reach me: <a href="mailto:scj.ebron@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> • <a href="https://www.linkedin.com/in/sheldon-ebron" target="_blank" rel="noopener noreferrer">LinkedIn</a> • <a href="https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
 
 ## 🎓 Recent Accomplishments
 
@@ -59,15 +59,15 @@ I specialize in building secure and robust ML systems at scale and translating r
 
 ## 📄 Selected Publications
 
-- 2025 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning** - Information Security and Privacy (ACISP 2025, LNCS) - [Springer](https://link.springer.com/chapter/10.1007/978-981-96-9101-2_7)
-- 2025 - **Towards Trustworthy Federated Learning: Enhancing Robustness, Privacy, and Reliability in Collaborative AI** - PhD Dissertation, Department of Computer Science, University of Memphis - [ProQuest](https://search.proquest.com/openview/d902918b14e527c1b6cfa3dde0651643/1.pdf)
-- 2024 - **Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards** - 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) - [IEEE CSDL](https://www.computer.org/csdl/proceedings-article/icdcs/2024/860500a762/1ZCgORwSC52)
+- 2025 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning** - Information Security and Privacy (ACISP 2025, LNCS) - <a href="https://link.springer.com/chapter/10.1007/978-981-96-9101-2_7" target="_blank" rel="noopener noreferrer">Springer</a>
+- 2025 - **Towards Trustworthy Federated Learning: Enhancing Robustness, Privacy, and Reliability in Collaborative AI** - PhD Dissertation, Department of Computer Science, University of Memphis - <a href="https://search.proquest.com/openview/d902918b14e527c1b6cfa3dde0651643/1.pdf" target="_blank" rel="noopener noreferrer">ProQuest</a>
+- 2024 - **Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards** - 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) - <a href="https://www.computer.org/csdl/proceedings-article/icdcs/2024/860500a762/1ZCgORwSC52" target="_blank" rel="noopener noreferrer">IEEE CSDL</a>
 - 2024 - **FedTruth: Byzantine-robust and Privacy-preserving Federated Learning** - IEEE ICDCS 2024
-- 2024 - **Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning** - IEEE Global Communications Conference (GLOBECOM 2024) - [arXiv](https://arxiv.org/abs/2402.04409)
+- 2024 - **Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning** - IEEE Global Communications Conference (GLOBECOM 2024) - <a href="https://arxiv.org/abs/2402.04409" target="_blank" rel="noopener noreferrer">arXiv</a>
 - 2024 - **PriFedTruth: Privacy-Enhanced Byzantine-Robust Federated Learning** - IEEE GLOBECOM 2024
-<!-- - 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2311.10248) -->
-- 2023 - **Multi-Criteria Client Selection and Scheduling with Fairness Guarantee for Federated Learning Service** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2312.14941)
-- [Full publication list on Google Scholar](https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en)
+<!-- - 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - <a href="https://arxiv.org/abs/2311.10248" target="_blank" rel="noopener noreferrer">arXiv</a> -->
+- 2023 - **Multi-Criteria Client Selection and Scheduling with Fairness Guarantee for Federated Learning Service** - arXiv preprint (CoRR) - <a href="https://arxiv.org/abs/2312.14941" target="_blank" rel="noopener noreferrer">arXiv</a>
+- <a href="https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>
 
 ## 📌 Featured Projects
 
@@ -94,7 +94,7 @@ I specialize in building secure and robust ML systems at scale and translating r
 </p>
 
 
-[![ebrsc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrsc17)](https://github.com/ebrsc17/github-readme-stats) -->
+<a href="https://github.com/ebrsc17/github-readme-stats" target="_blank" rel="noopener noreferrer">![ebrsc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrsc17)</a> -->
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ebrsc17&theme=radical&hide_border=false)
@@ -113,13 +113,13 @@ I specialize in building secure and robust ML systems at scale and translating r
 
 
 <!-- GitLab Profile badge (links to your profile) -->
-[![GitLab Profile](https://img.shields.io/badge/GitLab-Profile-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ebrsc17)
+<a href="https://gitlab.com/ebrsc17" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-Profile-%23FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Profile" /></a>
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/sheldon-ebron](https://www.linkedin.com/in/sheldon-ebron)
-- **Email:** [scj.ebron@gmail.com](mailto:scj.ebron@gmail.com)
-- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/sheldon-ebron" target="_blank" rel="noopener noreferrer">linkedin.com/in/sheldon-ebron</a>
+- **Email:** <a href="mailto:scj.ebron@gmail.com" target="_blank" rel="noopener noreferrer">scj.ebron@gmail.com</a>
+- **Google Scholar:** <a href="https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
 
 ---
 
