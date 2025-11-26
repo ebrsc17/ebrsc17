@@ -58,10 +58,15 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 
 ## 📄 Selected Publications
 
-- **FedTruth: Byzantine-robust and Privacy-preserving Federated Learning** - IEEE ICDCS 2024
-- **PriFedTruth: Privacy-Enhanced Byzantine-Robust Federated Learning** - IEEE GLOBECOM 2024
-- **[Additional Publication]** - ACISP 2025 (add title)
-- [Full publication list](https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en)
+- 2025 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning** - Information Security and Privacy (ACISP 2025, LNCS) - [Springer](https://link.springer.com/chapter/10.1007/978-981-96-9101-2_7)
+- 2025 - **Towards Trustworthy Federated Learning: Enhancing Robustness, Privacy, and Reliability in Collaborative AI** - PhD Dissertation, Department of Computer Science, University of Memphis - [ProQuest](https://search.proquest.com/openview/d902918b14e527c1b6cfa3dde0651643/1.pdf)
+- 2024 - **Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards** - 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) - [IEEE CSDL](https://www.computer.org/csdl/proceedings-article/icdcs/2024/860500a762/1ZCgORwSC52)
+- 2024 - **FedTruth: Byzantine-robust and Privacy-preserving Federated Learning** - IEEE ICDCS 2024
+- 2024 - **Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning** - IEEE Global Communications Conference (GLOBECOM 2024) - [arXiv](https://arxiv.org/abs/2402.04409)
+- 2024 - **PriFedTruth: Privacy-Enhanced Byzantine-Robust Federated Learning** - IEEE GLOBECOM 2024
+- 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2311.10248)
+- 2023 - **Multi-Criteria Client Selection and Scheduling with Fairness Guarantee for Federated Learning Service** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2312.14941)
+- [Full publication list on Google Scholar](https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en)
 
 ## 📌 Featured Projects
 
