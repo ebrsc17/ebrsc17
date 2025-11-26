@@ -64,7 +64,7 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 - 2024 - **FedTruth: Byzantine-robust and Privacy-preserving Federated Learning** - IEEE ICDCS 2024
 - 2024 - **Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning** - IEEE Global Communications Conference (GLOBECOM 2024) - [arXiv](https://arxiv.org/abs/2402.04409)
 - 2024 - **PriFedTruth: Privacy-Enhanced Byzantine-Robust Federated Learning** - IEEE GLOBECOM 2024
-- 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2311.10248)
+<!-- - 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2311.10248) -->
 - 2023 - **Multi-Criteria Client Selection and Scheduling with Fairness Guarantee for Federated Learning Service** - arXiv preprint (CoRR) - [arXiv](https://arxiv.org/abs/2312.14941)
 - [Full publication list on Google Scholar](https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en)
 
@@ -95,6 +95,7 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 
 [![ebrsc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrsc17)](https://github.com/ebrsc17/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=radical)
 
 ## 📫 Let's Connect
 
@@ -105,3 +106,5 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 ---
 
 💼 **Open to ML Engineer, Research Scientist, AI Security, and Applied AI roles**
+
+
