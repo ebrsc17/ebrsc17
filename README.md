@@ -87,15 +87,19 @@ I specialize in building secure, robust ML systems at scale and translating cutt
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ebrsc17&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrsc17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
-[![ebrsc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrsc17)](https://github.com/ebrsc17/github-readme-stats)
+[![ebrsc17's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrsc17)](https://github.com/ebrsc17/github-readme-stats) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-USERNAME&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ebrsc17&theme=radical&hide_border=false)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrsc17&theme=radical)
 
 ## 📫 Let's Connect
 
