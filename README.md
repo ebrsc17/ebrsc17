@@ -64,10 +64,11 @@ I specialize in building secure and robust ML systems at scale and translating r
 - 2024 - **Ensuring Fairness in Federated Learning Services: Innovative Approaches to Client Selection, Scheduling, and Rewards** - 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024) - <a href="https://www.computer.org/csdl/proceedings-article/icdcs/2024/860500a762/1ZCgORwSC52" target="_blank" rel="noopener noreferrer">IEEE CSDL</a>
 - 2024 - **FedTruth: Byzantine-robust and Privacy-preserving Federated Learning** - IEEE ICDCS 2024
 - 2024 - **Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning** - IEEE Global Communications Conference (GLOBECOM 2024) - <a href="https://arxiv.org/abs/2402.04409" target="_blank" rel="noopener noreferrer">arXiv</a>
-- 2024 - **PriFedTruth: Privacy-Enhanced Byzantine-Robust Federated Learning** - IEEE GLOBECOM 2024
-<!-- - 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - <a href="https://arxiv.org/abs/2311.10248" target="_blank" rel="noopener noreferrer">arXiv</a> -->
 - 2023 - **Multi-Criteria Client Selection and Scheduling with Fairness Guarantee for Federated Learning Service** - arXiv preprint (CoRR) - <a href="https://arxiv.org/abs/2312.14941" target="_blank" rel="noopener noreferrer">arXiv</a>
 - <a href="https://scholar.google.com/citations?user=XbJZuJgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Full publication list on Google Scholar</a>
+
+<!-- - 2024 - **PriFedTruth: Privacy-Enhanced Byzantine-Robust Federated Learning** - IEEE GLOBECOM 2024-->
+<!-- - 2023 - **Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)** - arXiv preprint (CoRR) - <a href="https://arxiv.org/abs/2311.10248" target="_blank" rel="noopener noreferrer">arXiv</a> -->
 
 ## 📌 Featured Projects
 
